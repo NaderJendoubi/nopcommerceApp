@@ -310,3 +310,13 @@
 2023-10-16 17:48:23,416 :INFO :utilities.customLogger :**************** Login test is passed ****************
 2023-10-16 17:48:23,416 :INFO :utilities.customLogger :**************** Login test is passed ****************
 2023-10-16 17:48:23,416 :INFO :utilities.customLogger :**************** Login test is passed ****************
+2023-10-26 10:39:25,039 :INFO :utilities.customLogger :************* SearchCustomerByName_005 **********
+2023-10-26 10:39:39,097 :INFO :utilities.customLogger :************* Login successful **********
+2023-10-26 10:39:39,097 :INFO :utilities.customLogger :******* Starting Search Customer By Name **********
+2023-10-26 10:39:41,758 :INFO :utilities.customLogger :************* Searching customer by Name **********
+2023-10-26 10:39:47,462 :INFO :utilities.customLogger :***************  TC_SearchCustomerByName_005 Finished  *********** 
+2023-10-26 10:40:30,784 :INFO :utilities.customLogger :************* SearchCustomerByName_005 **********
+2023-10-26 10:40:42,162 :INFO :utilities.customLogger :************* Login successful **********
+2023-10-26 10:40:42,162 :INFO :utilities.customLogger :******* Starting Search Customer By Name **********
+2023-10-26 10:40:44,040 :INFO :utilities.customLogger :************* Searching customer by Name **********
+2023-10-26 10:40:49,504 :INFO :utilities.customLogger :***************  TC_SearchCustomerByName_005 Finished  *********** 
